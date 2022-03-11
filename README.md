@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Dev
 - 🌱 I’m currently learning C# and python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord: Sampis@2306
+- 📫 How to reach me Discord: Sampis#2306
 
 <!---
 Sampis/Sampis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
